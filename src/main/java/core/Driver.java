@@ -6,7 +6,7 @@ public class Driver extends Base {
 
     protected AppiumDriver<AndroidElement> driver;
 
-    public Driver(){
+    public Driver() throws Exception {
         this.driver = getDriver();
     }
 }

@@ -1,0 +1,131 @@
+Driver Started
+Percent Test Started
+1 button clicked.
+0 button clicked.
+0 button clicked.
+yüzde button clicked.
+3 button clicked.
+5 button clicked.
+Computer result is 35
+Phone's calculator result is 35
+Results Matched! Test Passed!
+
+Clear button clicked.
+Driver Started
+Percent With Point Test Started
+1 button clicked.
+0 button clicked.
+0 button clicked.
+yüzde button clicked.
+5 button clicked.
+1 button clicked.
+. button clicked.
+2 button clicked.
+Computer result is 51.2
+Phone's calculator result is 51.2
+Results Matched! Test Passed!
+
+Clear button clicked.
+Driver Started
+Div Test Started
+1 button clicked.
+8 button clicked.
+bölü button clicked.
+3 button clicked.
+Computer result is 6
+Phone's calculator result is 6
+Results Matched! Test Passed!
+
+Clear button clicked.
+Driver Started
+Sub Test Started
+1 button clicked.
+8 button clicked.
+3 button clicked.
+eksi button clicked.
+5 button clicked.
+1 button clicked.
+Computer result is 132
+Phone's calculator result is 132
+Results Matched! Test Passed!
+
+Clear button clicked.
+Driver Started
+Multiply Test Started
+5 button clicked.
+0 button clicked.
+× button clicked.
+1 button clicked.
+0 button clicked.
+Computer result is 500
+Phone's calculator result is 500
+Results Matched! Test Passed!
+
+Clear button clicked.
+Driver Started
+Add Test Started
+8 button clicked.
+3 button clicked.
+artı button clicked.
+7 button clicked.
+2 button clicked.
+Computer result is 155
+Phone's calculator result is 155
+Results Matched! Test Passed!
+
+Clear button clicked.
+Driver Started
+Add With Point Test Started
+9 button clicked.
+. button clicked.
+5 button clicked.
+artı button clicked.
+8 button clicked.
+. button clicked.
+1 button clicked.
+Computer result is 17.6
+Phone's calculator result is 17.6
+Results Matched! Test Passed!
+
+Clear button clicked.
+Driver Started
+Sub With Point Test Started
+6 button clicked.
+6 button clicked.
+. button clicked.
+5 button clicked.
+artı button clicked.
+3 button clicked.
+. button clicked.
+2 button clicked.
+Computer result is 69.7
+Phone's calculator result is 69.7
+Results Matched! Test Passed!
+
+Clear button clicked.
+Driver Started
+Div With Point Test Started
+2 button clicked.
+6 button clicked.
+. button clicked.
+5 button clicked.
+bölü button clicked.
+5 button clicked.
+. button clicked.
+2 button clicked.
+Computer result is 5.096153846153846
+Phone's calculator result is 5.096153846153846
+Driver Started
+Multiply Test Point Test Started
+6 button clicked.
+. button clicked.
+1 button clicked.
+× button clicked.
+2 button clicked.
+. button clicked.
+5 button clicked.
+Computer result is 15.25
+Phone's calculator result is 15.25
+Results Matched! Test Passed!
+
+Clear button clicked.
